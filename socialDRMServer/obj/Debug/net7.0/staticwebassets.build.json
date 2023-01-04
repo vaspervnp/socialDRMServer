@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dpHHcbTJ/o353od83k+dVxiX7qO3XCjyybL62/8sBVk=",
+  "Source": "socialDRMServer",
+  "BasePath": "_content/socialDRMServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

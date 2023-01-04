@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kfiCXTlo1M6J1L3L4cZJRZCmJG2P+yb91Y4W1ecI5Hi/Y5hMDscst7eWjC2TClqP6/kiFm24gSZrAfAw8wEubQ==",
+  "dgSpecHash": "zqVpOe2T9I2vdLuWruE60jr75CxTqipO/g2nTG4pazzegqR7cBe/9BxIOkPrOKqyUgqpPuwLW8OdTJBQ2Jizkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\vasilhs\\source\\repos\\vaspervnp\\socialDRMServer\\socialDRMServer\\socialDRMServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vasilhs\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
-    "C:\\Users\\vasilhs\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\vasilhs\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\vasilhs\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\vasilhs\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\vasilhs\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\vasilhs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "C:\\Users\\vasilhs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
